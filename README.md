@@ -33,4 +33,4 @@ Users should be able to:
 
 ### Continue Development
 
-- Will add more operation as I learn more about JavaScript.
+- Will add more operations as I learn more about JavaScript.
